@@ -1,0 +1,30 @@
+[
+  {
+    "id": "18e40248-35c9-4d8b-99f3-112570afa0dd",
+    "data": [
+      {
+        "text": "benefits",
+        "alias": "benefits",
+        "meta": "@benefits",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "health",
+        "alias": "health_insurace",
+        "meta": "@health_insurace",
+        "userDefined": true
+      },
+      {
+        "text": " insurance@",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

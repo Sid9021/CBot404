@@ -1,0 +1,36 @@
+{
+  "id": "7f2bd991-7dbc-4930-85ba-6af56fcb21dc",
+  "parentId": "d36661b0-4727-4dea-80eb-9cf8b52dd077",
+  "rootParentId": "d36661b0-4727-4dea-80eb-9cf8b52dd077",
+  "name": "what all does the insurance cover - custom - custom - yes",
+  "auto": true,
+  "contexts": [
+    "whatalldoestheinsurancecover-custom-custom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "whatalldoestheinsurancecover.whatalldoestheinsurancecover-custom.whatalldoestheinsurancecover-custom-custom.whatalldoestheinsurancecover-custom-custom-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "883d36b7-b46e-4218-9a41-a3fbfaf9a6a3",
+    "data": [
+      {
+        "text": "health",
+        "alias": "insurance_type",
+        "meta": "@insurance_type",
+        "userDefined": false
+      },
+      {
+        "text": " insurance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

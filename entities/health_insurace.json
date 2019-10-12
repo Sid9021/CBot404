@@ -1,0 +1,9 @@
+{
+  "id": "bb9ebb34-5633-4293-9761-7084ef80f4be",
+  "name": "health_insurace",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

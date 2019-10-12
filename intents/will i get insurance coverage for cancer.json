@@ -1,0 +1,44 @@
+{
+  "id": "c2bb9d82-b2b4-48d6-a435-e80ae6d7d215",
+  "name": "will i get insurance coverage for cancer",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e034efc8-4fff-4d6e-bf27-47a10a0849a8",
+          "required": false,
+          "dataType": "@health_insurace",
+          "name": "health_insurace",
+          "value": "$health_insurace",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "yes we do cover up $health_insurace"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

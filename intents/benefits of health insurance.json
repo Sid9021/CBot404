@@ -1,0 +1,62 @@
+{
+  "id": "53f83348-8269-49a4-9b7c-cce33607d72f",
+  "name": "benefits of health insurance",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "benefitsofhealthinsurance-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "be3e0b19-76e3-4b0d-9c1a-8ba529e88422",
+          "required": false,
+          "dataType": "@health_insurace",
+          "name": "health_insurace",
+          "value": "$health_insurace",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "99ed3840-27d6-48de-9c19-070df6c60e40",
+          "required": true,
+          "dataType": "@benefits",
+          "name": "benefits",
+          "value": "$benefits",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "do you want to know Renewal Benefits or tax benefits"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "21b12103-d4b2-4720-838b-af01a9b07d3b",
+    "data": [
+      {
+        "text": "can i know of the tax benefit of ",
+        "userDefined": false
+      },
+      {
+        "text": "health",
+        "alias": "insurance_type",
+        "meta": "@insurance_type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "insurance",
+        "alias": "insurance_type",
+        "meta": "@insurance_type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

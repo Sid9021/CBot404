@@ -1,0 +1,9 @@
+{
+  "id": "e2b4be26-072e-48cd-ac39-cec6ebd0bc06",
+  "name": "sys.unit-information-name",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

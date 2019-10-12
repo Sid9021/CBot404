@@ -1,0 +1,47 @@
+{
+  "id": "c57d2528-13e3-4217-b33c-42e122c83de7",
+  "parentId": "34a64aed-714b-4893-b693-205b8043cad9",
+  "rootParentId": "34a64aed-714b-4893-b693-205b8043cad9",
+  "name": "insurance polices - yes",
+  "auto": true,
+  "contexts": [
+    "insurancepolices-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "insurancepolices.insurancepolices-yes",
+      "affectedContexts": [
+        {
+          "name": "insurancepolices-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "insurancepolices-yes-followup-2",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Ok Great!!, Which one would you like to learn more about?\n\nHealth Insurance or Vehicle Insurance?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "f80f3030-3d0c-4358-a833-b6ebc86efcdb",
+  "parentId": "34a64aed-714b-4893-b693-205b8043cad9",
+  "rootParentId": "34a64aed-714b-4893-b693-205b8043cad9",
+  "name": "insurance polices - no",
+  "auto": true,
+  "contexts": [
+    "insurancepolices-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "insurancepolices.insurancepolices-no",
+      "affectedContexts": [
+        {
+          "name": "insurancepolices-no-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Ok, Is there anything i can help you with?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

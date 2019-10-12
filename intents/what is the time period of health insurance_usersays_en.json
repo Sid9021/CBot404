@@ -1,0 +1,112 @@
+[
+  {
+    "id": "6ad5801e-48f0-4bcb-8d89-06342aa3906b",
+    "data": [
+      {
+        "text": "what is the time period of ",
+        "userDefined": false
+      },
+      {
+        "text": "health",
+        "alias": "insurance_type",
+        "meta": "@insurance_type",
+        "userDefined": false
+      },
+      {
+        "text": " insurance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e7b800b5-0e22-47c2-8564-81dcc9b300c7",
+    "data": [
+      {
+        "text": "documents required for ",
+        "userDefined": false
+      },
+      {
+        "text": "health",
+        "alias": "insurance_type",
+        "meta": "@insurance_type",
+        "userDefined": false
+      },
+      {
+        "text": " insurance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4b661e1-7d08-41cf-9755-489e80018384",
+    "data": [
+      {
+        "text": "more about ",
+        "userDefined": false
+      },
+      {
+        "text": "health",
+        "alias": "insurance_type",
+        "meta": "@insurance_type",
+        "userDefined": false
+      },
+      {
+        "text": " insurance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "88e0930f-003f-4007-b5c6-ee6f50c3120c",
+    "data": [
+      {
+        "text": "details about ",
+        "userDefined": false
+      },
+      {
+        "text": "health",
+        "alias": "insurance_type",
+        "meta": "@insurance_type",
+        "userDefined": false
+      },
+      {
+        "text": " insurance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e6c45e9-2930-4403-8961-da673f6ceb47",
+    "data": [
+      {
+        "text": "can i know more details about ",
+        "userDefined": false
+      },
+      {
+        "text": "health",
+        "alias": "insurance_type",
+        "meta": "@insurance_type",
+        "userDefined": false
+      },
+      {
+        "text": " insurance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

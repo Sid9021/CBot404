@@ -1,0 +1,51 @@
+{
+  "id": "d36661b0-4727-4dea-80eb-9cf8b52dd077",
+  "name": "health cover",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "whatalldoestheinsurancecover.whatalldoestheinsurancecover-custom.whatalldoestheinsurancecover-custom-custom",
+      "affectedContexts": [
+        {
+          "name": "whatalldoestheinsurancecover-custom-custom-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "653c585c-db21-4050-9eef-a50486785103",
+          "required": true,
+          "dataType": "@insurance_type",
+          "name": "insurance_type",
+          "value": "$insurance_type",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "It is health insurance,which can be covered for all medical day-care treatments such  as skin treatment and Lasik surgery. The policy covered for 5 yrs. The Free look period is 15 days, the grace period and waiting period is 30 days."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

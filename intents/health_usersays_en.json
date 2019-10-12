@@ -1,0 +1,23 @@
+[
+  {
+    "id": "8a204448-c20c-4bd9-bacb-d553799e4c2f",
+    "data": [
+      {
+        "text": "what all does ",
+        "userDefined": false
+      },
+      {
+        "text": "health",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " insurance cover",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

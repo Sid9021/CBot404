@@ -1,0 +1,9 @@
+{
+  "id": "5f728716-258c-4eb4-8aa0-393755ee9b81",
+  "name": "insurance_type",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

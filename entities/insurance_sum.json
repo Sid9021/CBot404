@@ -1,0 +1,9 @@
+{
+  "id": "0a69870f-3624-4e0a-af1c-a806e399722f",
+  "name": "insurance_sum",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "e6b8afa8-122e-4b03-b0c4-d90795d903ee",
+    "data": [
+      {
+        "text": "What are all the types of insurance policies you provide?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d997de22-3c22-4f60-883b-a57ecdb464f5",
+    "data": [
+      {
+        "text": "insurance",
+        "alias": "insurance_type",
+        "meta": "@insurance_type",
+        "userDefined": true
+      },
+      {
+        "text": " policies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ccf94ffe-13a2-4575-958a-e4a0c91b67cf",
+    "data": [
+      {
+        "text": "all the insurances",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

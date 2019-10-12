@@ -1,0 +1,44 @@
+{
+  "id": "a2c95185-f1b1-4fac-a2d3-a7b761949d9f",
+  "name": "what is the time period of health insurance",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9f1877f9-0bb6-449e-9a1e-ba51755d0531",
+          "required": true,
+          "dataType": "@insurance_type",
+          "name": "insurance_type",
+          "value": "$insurance_type",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "It is health  insurance,which  can be covered for all medical day-care treatments such    as skin treatment and Lasik surgery. The policy covered for 5 yrs. The Free look period is 15 days, the grace period and waiting period is 30 days"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

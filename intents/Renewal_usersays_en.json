@@ -1,0 +1,16 @@
+[
+  {
+    "id": "8465b87e-fd81-49c4-bd0c-3b6383ab35f4",
+    "data": [
+      {
+        "text": "renewal",
+        "alias": "benefits",
+        "meta": "@benefits",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

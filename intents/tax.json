@@ -1,0 +1,44 @@
+{
+  "id": "5a9f3188-80fc-4e57-a3c5-c1b6ea6c07a0",
+  "name": "tax",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1cd097b7-9c35-4aa6-9b81-fd1ca34c988c",
+          "required": true,
+          "dataType": "@insurance_type",
+          "name": "insurance_type",
+          "value": "$insurance_type",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "its estimated almost 1 lakh  rupees annually"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

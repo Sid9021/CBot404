@@ -1,0 +1,49 @@
+{
+  "id": "07a3a0c9-b44f-491b-aafe-f0a5bdfbd13c",
+  "parentId": "53f83348-8269-49a4-9b7c-cce33607d72f",
+  "rootParentId": "53f83348-8269-49a4-9b7c-cce33607d72f",
+  "name": "Renewal",
+  "auto": true,
+  "contexts": [
+    "benefitsofhealthinsurance-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "benefitsofhealthinsurance.benefitsofhealthinsurance-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fdfde99f-3850-48d4-b7b9-f9c0069c7a36",
+          "required": false,
+          "dataType": "@benefits",
+          "name": "benefits",
+          "value": "$benefits",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "a) Cumulative Bonus (Additional Sum Insured) - An Additional Sum Insured of 10% of Annual Sum Insured provided on each renewal for  every claim-free year up to a maximum of 50%.                                        b) Complementary Health Check-Up Coupons: One coupon per                 individual policy and two coupons per Floater policy will be offered"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "50dd7966-c510-4a62-84ab-9424dda02b3e",
+  "parentId": "c57d2528-13e3-4217-b33c-42e122c83de7",
+  "rootParentId": "34a64aed-714b-4893-b693-205b8043cad9",
+  "name": "insurance polices - yes - custom-2",
+  "auto": true,
+  "contexts": [
+    "insurancepolices-yes-followup-2",
+    "insurancepolices-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "insurancepolices.insurancepolices-yes.insurancepolices-yes-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

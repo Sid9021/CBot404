@@ -1,0 +1,60 @@
+{
+  "id": "21efdfe5-aa26-46e2-bd7e-eeec97fcd2c6",
+  "parentId": "c57d2528-13e3-4217-b33c-42e122c83de7",
+  "rootParentId": "34a64aed-714b-4893-b693-205b8043cad9",
+  "name": "insurance polices - yes - custom",
+  "auto": true,
+  "contexts": [
+    "insurancepolices-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "insurancepolices.insurancepolices-yes.insurancepolices-yes-custom",
+      "affectedContexts": [
+        {
+          "name": "insurancepolices-yes-custom-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "insurancepolices-yes-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c81530fb-097d-4ab6-8afc-158286136893",
+          "required": false,
+          "dataType": "@insurance_type",
+          "name": "insurance_type",
+          "value": "$insurance_type",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Our Health Insurances covers all day-care medical treatments such as skin treatments and Lasik surgery.\n\nIs there anything you want to ask?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
