@@ -1,21 +1,15 @@
 {
-  "id": "50dd7966-c510-4a62-84ab-9424dda02b3e",
-  "parentId": "c57d2528-13e3-4217-b33c-42e122c83de7",
-  "rootParentId": "34a64aed-714b-4893-b693-205b8043cad9",
-  "name": "insurance polices - yes - custom-2",
+  "id": "daa06eeb-460a-44a3-b89c-af330d75e294",
+  "name": "vehicle time period",
   "auto": true,
-  "contexts": [
-    "insurancepolices-yes-followup-2",
-    "insurancepolices-yes-followup"
-  ],
+  "contexts": [],
   "responses": [
     {
       "resetContexts": false,
-      "action": "insurancepolices.insurancepolices-yes.insurancepolices-yes-custom-2",
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "3dede91d-6e4b-4b9b-8ca2-b6817a5cd6a6",
+          "id": "5f757199-bbb0-4e24-872a-0f687f9ae968",
           "required": false,
           "dataType": "@insurance_type",
           "name": "insurance_type",
@@ -32,7 +26,7 @@
           "type": 0,
           "lang": "en",
           "condition": "",
-          "speech": "We cover for all own damage treatments such as fire, theft, accident."
+          "speech": "The policy is covered for 5 years, free look period is 15 days, the grace period and waiting period is 30 days"
         }
       ],
       "defaultResponsePlatforms": {},
